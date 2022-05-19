@@ -1,4 +1,4 @@
-.TH hsh 1 "AUGUST 14, 2021" "1.0" "hsh (simple_shell) Man Page"
+.TH hsh 1 "MAY 15, 2022" "1.0" "hsh (simple_shell) Man Page"
 
 .SH NAME
 
@@ -9,7 +9,7 @@
 .SH SYNOPSIS
 
 .B  ./hsh
-.I (no options included as of this writing (August 14, 2021))
+.I (no options included as of this writing (MAY 15, 2022))
 
 .SH DESCRIPTION
 
@@ -117,7 +117,7 @@ br.
 
 
 .SH BUGS
-No known bugs have been found/reported as of (August 14, 2021).
+No known bugs have been found/reported as of (May 15, 2022).
 Please report any issues/bugs to the contributors listed in the AUTHORs section.
 
 .SH AUTHOR
